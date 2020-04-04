@@ -1,7 +1,7 @@
 # Automata-and-compilation-theory
-Build a simple compiler for C language using java and javacc 
+a simple compiler for C language using java and javacc ,
 support:
-  -Initialization, and declaration of variables
+  -Initialization and declaration of variables
   -Unari and binary statements
   -If statement
   -For and While loop
